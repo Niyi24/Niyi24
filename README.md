@@ -38,6 +38,6 @@ Welcome to my GitHub profile! I'm currently building digital solutions for coope
 
 ## 💬 Quote That Keeps Me Going
 
-> *"Prosperity is temporary. Progress is constant."*  
+> *"See the results only, and not the obstacles."*  
 
 Thanks for stopping by! I’m open to collaborations, internships, and volunteer dev work—especially for nonprofits or community impact projects.
