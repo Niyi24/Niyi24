@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm currently building digital solutions for coope
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/niyi24) 
-- 🌐 [Portfolio](https://www.niyi24.vercel.app).  
+- 🌐 [Portfolio](https://www.niyi24.vercel.app)  
 - 📧 Email: nurudeenjamiu38@gmail.com
 - 🏠 Location: Ogbomoso, Oyo State, Nigeria
 
